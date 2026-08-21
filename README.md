@@ -1,13 +1,16 @@
-
 <div align="center">
 
 # 👋 Hi, I'm **Saumya Smruti Pradhan**
 
-### 🚀 Full-Stack Developer | MERN Stack | React.js | Node.js
+### 🚀 Full-Stack Developer | 🛡️ DevSecOps Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;DevSecOps+Engineer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Docker+%7C+Linux+%7C+Git+%7C+GitHub;Building+Secure+%26+Scalable+Applications" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,docker,linux,git,github" />
+
+<br/><br/>
 
 <a href="https://github.com/pradhansaumya181-debug">
 <img src="https://img.shields.io/badge/GitHub-pradhansaumya181--debug-181717?style=for-the-badge&logo=github"/>
@@ -27,71 +30,108 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science graduate and Full-Stack Developer** focused on building scalable, responsive and user-friendly web applications.
+I'm a **Full-Stack Developer with a growing focus on DevSecOps**, passionate about building secure, scalable and production-ready web applications.
 
-I enjoy working across both frontend and backend development — from designing responsive interfaces to building secure APIs, authentication systems and database-driven applications.
+My development journey covers both **application development and modern deployment practices**, with hands-on experience in React.js, Node.js, MongoDB, Docker, Linux and Git-based workflows.
 
-* 🎓 B.Tech in **Computer Science Engineering**
-* 💼 Former **Frontend Developer Intern at E Develop**
-* 🚀 Building applications with the **MERN Stack**
-* 🔐 Interested in Authentication, REST APIs & Backend Architecture
-* ⚡ Focused on clean code, performance and great UI/UX
-* 📍 Bhubaneswar, Odisha, India
+* 💻 Full-Stack Web Development
+* 🛡️ DevSecOps & Secure Development Practices
+* ⚛️ React.js & Next.js
+* 🟢 Node.js & Express.js
+* 🍃 MongoDB & Redis
+* 🐳 Docker & Linux
+* 🔀 Git & GitHub
+* ☁️ Vercel & Firebase
+* 🔐 JWT Authentication & API Security
+* 🚀 Focused on scalable and maintainable applications
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind" />
 
-### 🎨 Frontend
+`React.js` `Next.js` `Redux Toolkit` `Zustand` `Context API` `Tailwind CSS` `Framer Motion`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
+### ⚙️ Backend Development
 
-**React.js • Next.js • Redux Toolkit • Zustand • Context API • Tailwind CSS • Framer Motion • Axios**
-
-### ⚙️ Backend
-
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
 
-**Node.js • Express.js • REST API • JWT • Bcrypt • MVC Architecture**
+`Node.js` `Express.js` `REST API` `JWT` `Bcrypt` `MVC Architecture`
 
 ### 🗄️ Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" />
-</p>
 
-**MongoDB • Redis • Firestore**
+`MongoDB` `Redis` `Firestore`
 
-### 🔧 Tools & DevOps
+### 🛡️ DevSecOps & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 
-**Git • GitHub • VS Code • Postman • Docker • Linux • Vercel**
+`Docker` `Linux` `Git` `GitHub` `Version Control` `Deployment`
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel" />
+
+`VS Code` `Postman` `Vercel`
+
+---
+
+# 🛡️ DevSecOps Focus
+
+<div align="center">
+
+| 🔐 Security           | 🐳 Containers    | 🐧 Infrastructure | 🔄 Automation  |
+| --------------------- | ---------------- | ----------------- | -------------- |
+| JWT                   | Docker           | Linux             | Git            |
+| Bcrypt                | Containerization | CLI               | GitHub         |
+| API Security          | Images           | Server Management | CI/CD Learning |
+| Secure Authentication | Deployment       | Networking        | Automation     |
+
+</div>
+
+---
+
+# 🚀 What I Build
+
+```text
+        Frontend
+           ↓
+   React / Next.js
+           ↓
+        REST API
+           ↓
+ Node.js / Express.js
+           ↓
+ Authentication
+           ↓
+      MongoDB
+           ↓
+       Docker
+           ↓
+        Linux
+           ↓
+ Secure & Scalable
+   Application
+```
 
 ---
 
 # 💼 Experience
 
-## Frontend Developer Intern — E Develop
+### Frontend Developer Intern — E Develop
 
 **Oct 2025 – Dec 2025 | Remote**
 
-* Developed reusable **React.js UI components** to improve consistency and reduce code duplication.
-* Refactored legacy code and optimized state management, improving page load performance by **15%**.
-* Converted Figma designs into **pixel-perfect responsive web pages**.
-* Used Git workflows and participated in structured peer code reviews.
+* Developed reusable React.js components.
+* Refactored legacy code and optimized state management.
+* Improved page-load performance by **15%**.
+* Converted Figma designs into responsive web pages.
+* Used Git workflows and peer code reviews.
 
 ---
 
@@ -101,23 +141,13 @@ I enjoy working across both frontend and backend development — from designing 
 
 **MERN Stack • Redux Toolkit • JWT • Tailwind CSS**
 
-A full-stack learning and quiz platform with role-based access for Admins and Students.
-
-### Key Features
-
 * 🔐 JWT + Bcrypt authentication
 * 👥 Role-based access control
 * 📝 Dynamic quiz engine
 * ⚡ Real-time scoring
-* 💡 Instant feedback
 * 🗄️ MongoDB data modeling
-* 📚 User, course and quiz-history management
 
-<div>
-<a href="https://quiz-app-6d8d.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>
-</a>
-</div>
+🌐 **Live:** https://quiz-app-6d8d.vercel.app
 
 ---
 
@@ -125,27 +155,18 @@ A full-stack learning and quiz platform with role-based access for Admins and St
 
 **React • Node.js • Express • MongoDB • Firebase • Firestore • Zustand**
 
-A multi-role hospital appointment and real-time queue management system.
-
-### Key Features
-
 * 👤 Patient / Doctor / Hospital Admin roles
-* 🔐 15-minute short-lived JWT access tokens
-* ⚡ Atomic conflict-safe appointment booking
-* 🗄️ MongoDB indexing for optimized queries
-* 🔥 Firestore-powered live queue
-* 🔔 Real-time toast notifications
-* 🧪 80%+ Jest coverage for core booking logic
+* 🔐 Short-lived JWT authentication
+* ⚡ Atomic conflict-safe booking
+* 🗄️ MongoDB indexing
+* 🔥 Firestore real-time queue
+* 🧪 80%+ Jest coverage
 
-<div>
-<a href="https://med-queue-hospital-opd-system.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>
-</a>
-</div>
+🌐 **Live:** https://med-queue-hospital-opd-system.vercel.app
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -167,48 +188,13 @@ A multi-role hospital appointment and real-time queue management system.
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhansaumya181-debug&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 # 🎯 Currently Learning
 
-```text
-React.js & Next.js
-        ↓
-Backend Architecture
-        ↓
-REST API Design
-        ↓
-Authentication & Authorization
-        ↓
-Docker & Linux
-        ↓
-System Design
-        ↓
-Testing & Performance Optimization
-```
+<img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,terraform,githubactions" />
 
----
+### DevSecOps Roadmap
 
-# 🏆 Certifications
-
-* Full Stack Developer Certificate — **In Progress**
-* FreeCodeCamp — **Responsive Web Design**
-
----
-
-# 🌐 Languages
-
-* 🇬🇧 English — Professional
-* 🇮🇳 Hindi — Native
-* 🇮🇳 Odia — Native
+`Linux` → `Git` → `Docker` → `CI/CD` → `Jenkins` → `GitHub Actions` → `AWS` → `Kubernetes` → `Terraform` → `Security`
 
 ---
 
@@ -234,8 +220,8 @@ Testing & Performance Optimization
 
 <div align="center">
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 🚀 Build • Secure • Deploy • Scale
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile! ⭐**
 
 </div>
