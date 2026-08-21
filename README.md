@@ -1,33 +1,241 @@
-# 💫 About Me:
-Hi 👋 I’m Saumya Pradhan, a Frontend Developer focused on building responsive and scalable web applications.<br><br>🔭 Currently working on React.js projects  <br>🌱 Learning advanced React, Firebase & modern UI patterns  <br>👯 Open to collaborating on real-world & open-source projects  <br>💬 Ask me about HTML, CSS, JavaScript, React, Tailwind CSS ,SASS <br>⚡ Fun fact: Clean UI makes me happier than coffee ☕<br>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saumyapradhan4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saumya-pradhan-aa7824254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradhansaumya181@gmail.com) 
+# 👋 Hi, I'm **Saumya Smruti Pradhan**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pradhansaumya181-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pradhansaumya181-debug&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhansaumya181-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Full-Stack Developer | MERN Stack | React.js | Node.js
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="https://github.com/pradhansaumya181-debug">
+<img src="https://img.shields.io/badge/GitHub-pradhansaumya181--debug-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/saumya-pradhan-aa7824254">
+<img src="https://img.shields.io/badge/LinkedIn-Saumya%20Pradhan-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pradhansaumya181@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pradhansaumya181-debug&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**pradhansaumya181-debug/pradhansaumya181-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science graduate and Full-Stack Developer** focused on building scalable, responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+I enjoy working across both frontend and backend development — from designing responsive interfaces to building secure APIs, authentication systems and database-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 B.Tech in **Computer Science Engineering**
+* 💼 Former **Frontend Developer Intern at E Develop**
+* 🚀 Building applications with the **MERN Stack**
+* 🔐 Interested in Authentication, REST APIs & Backend Architecture
+* ⚡ Focused on clean code, performance and great UI/UX
+* 📍 Bhubaneswar, Odisha, India
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+**React.js • Next.js • Redux Toolkit • Zustand • Context API • Tailwind CSS • Framer Motion • Axios**
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+**Node.js • Express.js • REST API • JWT • Bcrypt • MVC Architecture**
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" />
+</p>
+
+**MongoDB • Redis • Firestore**
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel" />
+</p>
+
+**Git • GitHub • VS Code • Postman • Docker • Linux • Vercel**
+
+---
+
+# 💼 Experience
+
+## Frontend Developer Intern — E Develop
+
+**Oct 2025 – Dec 2025 | Remote**
+
+* Developed reusable **React.js UI components** to improve consistency and reduce code duplication.
+* Refactored legacy code and optimized state management, improving page load performance by **15%**.
+* Converted Figma designs into **pixel-perfect responsive web pages**.
+* Used Git workflows and participated in structured peer code reviews.
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 EduQuest — Dynamic Quiz & Learning Portal
+
+**MERN Stack • Redux Toolkit • JWT • Tailwind CSS**
+
+A full-stack learning and quiz platform with role-based access for Admins and Students.
+
+### Key Features
+
+* 🔐 JWT + Bcrypt authentication
+* 👥 Role-based access control
+* 📝 Dynamic quiz engine
+* ⚡ Real-time scoring
+* 💡 Instant feedback
+* 🗄️ MongoDB data modeling
+* 📚 User, course and quiz-history management
+
+<div>
+<a href="https://quiz-app-6d8d.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>
+</a>
+</div>
+
+---
+
+## 🏥 MedQueue — Hospital OPD Appointment System
+
+**React • Node.js • Express • MongoDB • Firebase • Firestore • Zustand**
+
+A multi-role hospital appointment and real-time queue management system.
+
+### Key Features
+
+* 👤 Patient / Doctor / Hospital Admin roles
+* 🔐 15-minute short-lived JWT access tokens
+* ⚡ Atomic conflict-safe appointment booking
+* 🗄️ MongoDB indexing for optimized queries
+* 🔥 Firestore-powered live queue
+* 🔔 Real-time toast notifications
+* 🧪 80%+ Jest coverage for core booking logic
+
+<div>
+<a href="https://med-queue-hospital-opd-system.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>
+</a>
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pradhansaumya181-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhansaumya181-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pradhansaumya181-debug&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhansaumya181-debug&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+```text
+React.js & Next.js
+        ↓
+Backend Architecture
+        ↓
+REST API Design
+        ↓
+Authentication & Authorization
+        ↓
+Docker & Linux
+        ↓
+System Design
+        ↓
+Testing & Performance Optimization
+```
+
+---
+
+# 🏆 Certifications
+
+* Full Stack Developer Certificate — **In Progress**
+* FreeCodeCamp — **Responsive Web Design**
+
+---
+
+# 🌐 Languages
+
+* 🇬🇧 English — Professional
+* 🇮🇳 Hindi — Native
+* 🇮🇳 Odia — Native
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/saumya-pradhan-aa7824254">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pradhansaumya181@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/pradhansaumya181-debug">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
